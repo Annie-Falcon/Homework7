@@ -71,7 +71,7 @@ public class Main {
                 break;
             }
         } while (true);
-        System.out.println("Цель достигнута!");
+        System.out.println("Цель достигнута");
 
         System.out.println(" ");
         System.out.println("Задача 5");
